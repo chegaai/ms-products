@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Group microservice
+name: ms-groups
+version: 0.1.0
